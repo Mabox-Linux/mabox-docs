@@ -1,6 +1,6 @@
 # Mabox Linux Manual
 
-[Official Mabox Linux Manual](https://manual.maboxlinux.org/mabox-doc-en) - english version.
+[Official Mabox Linux Manual](https://manual.maboxlinux.org/) 
 
 Built with [mkdocs-material](https://github.com/squidfunk/mkdocs-material).
 
