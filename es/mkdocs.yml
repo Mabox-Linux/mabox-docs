@@ -1,0 +1,137 @@
+site_name: Mabox Linux Manual
+site_url: https://manual.maboxlinux.org/es/
+site_author: Nick0bre Benjamin
+repo_url: https://github.com/Mabox-Linux/mabox-docs
+repo_name: mabox-docs
+copyright: Copyright &copy; 2022 Nick0bre Benjamin
+
+nav:
+    - Inicio: index.md
+    - Comencemos:
+      - Descarga e instalación: getting-started/download-and-installation.md
+      - Primer arranque: getting-started/first-run.md
+      - Introducción al sistema Mabox: getting-started/intro-desktop.md
+      - Gestor de software: getting-started/software-management.md
+      - Windows Tiling: getting-started/tiling.md
+      - Atajos de teclado: getting-started/keyboard-shortcuts.md
+    - Configuración:
+      - Menu de ajustes: configuration/settings-menu.md
+      - Mabox Centro de Control: configuration/mcc.md
+      - Reinicio: configuration/autostart.md
+      - Ajustes ObConf: configuration/obconf.md
+      - Temas:
+        - Gestor de temas: configuration/theme-manager.md
+        - Apariencia GTK / Openbox / Iconos: configuration/lxappearance.md
+        - Fondos de pantalla: configuration/wallpapers.md
+        - Panel Tint2 : configuration/tint2.md
+        - Menu / Paneles laterales: configuration/menu-sidepanels.md
+        - Recuadros Conky: configuration/conky.md
+    - Mantenimiento:
+      - Actualizaciones: maintenance/updates.md
+      - Kernels o núcleos llinux: maintenance/kernels.md
+      - Aplicación mb-reset: maintenance/mb-reset.md
+    - Aplicaciones:
+      - Por defecto/Preferidas: apps/preferred-apps.md
+      - Gestor de archivos - PcmanFM: apps/pcmanfm.md
+      - Emulador terminal - Terminator: apps/terminator.md
+      - Editor de texto/desarrollo - Geany: apps/geany.md
+      - Utilidad de búsqueda - FSearch: apps/fsearch.md
+#      - Reproductor de audio - Audacious: apps/audacious.md
+#      - Reproductor de media - MPV: apps/mpv.md
+      - Herramientas/Apps de terminal:
+        - Radioemisoras en internet - PyRadio: apps/pyradio.md
+        - Buscador de medios -fzf -: apps/fzf.md
+#        - temas tipop sh: apps/themes.sh.md
+#        - buscador de paquetes -fpf -: apps/fpf.md
+#        - buscador youtube -ytfzf -: apps/ytfzf.md
+      - Otras Apps:
+        - Sistems con GKrellM: apps/gkrellm.md
+        - Icono de Volumen: apps/volume-icon.md
+#        - Toma apuntes ClipIt: apps/clipit.md
+#        - Esquinas activas (cornora): apps/cornora.md
+    - Herramientas Mabox:
+      - herramientas de Mabox: mabox-tools/index.md
+      - Captura imagenes: mabox-tools/screenshot-tool.md
+      - Menu de Comandos: mabox-tools/command-palette.md
+      - Dialogo de Salir: mabox-tools/mblogout.md
+      - Expansor de texto - Espanso: mabox-tools/espanso.md
+      - Cuadrícula de escritorio: mabox-tools/desktopgrid.md
+      - Gestor de selector de color/paleta: mabox-tools/mbxcolors.md
+#      - Gestor de escritorios: mabox-tools/deskmngr.md
+
+extra_css:
+  - css/extra.css
+  - assets/simpleLightbox.min.css
+extra_javascript:
+  - assets/simpleLightbox.min.js
+  - assets/main.js
+theme:
+  name: material
+  locale: es
+  logo: assets/3D_logo.png
+  favicon: assets/3D_logo.png
+  # custom_dir: overrides
+  # Don't include MkDocs' JavaScript
+  include_search_page: false
+  search_index_only: true
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.sections
+    - navigation.indexes
+    - search.share
+  palette:
+    - scheme: default
+      primary: blue grey
+      accent: pink
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      primary: blue grey
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+markdown_extensions:
+    - abbr
+    - meta
+    - admonition
+    - def_list
+    - pymdownx.details
+    - pymdownx.superfences
+    - attr_list
+    - pymdownx.keys
+    - footnotes
+    - pymdownx.emoji:
+        emoji_index: !!python/name:materialx.emoji.twemoji
+        emoji_generator: !!python/name:materialx.emoji.to_svg
+extra:
+  alternate:
+    - name: English
+      link: /en/ 
+      lang: en
+    - name: Spanish
+      link: /es/
+      lang: es
+  social:
+    - icon: material/home
+      link: https://maboxlinux.org
+      name: Mabox Linux Website
+    - icon: material/forum
+      link: https://forum.maboxlinux.org
+      name: Mabox Linux Forum
+    - icon: material/twitter
+      link: https://twitter.com/MaboxLinux/
+      name: Mabox Linux on Twitter
+    - icon: material/facebook
+      link: https://www.facebook.com/maboxlinux/
+      name: Mabox Linux on Facebook
+    - icon: material/youtube
+      link: https://www.youtube.com/c/MaboxLinux
+      name: Mabox Linux on Youtube
+    - icon: material/reddit
+      link: https://old.reddit.com/r/MaboxLinux/
+      name: Mabox Linux on Reddit

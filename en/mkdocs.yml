@@ -1,0 +1,135 @@
+site_name: Mabox Linux Manual
+site_url: https://manual.maboxlinux.org/en/
+site_author: Daniel Napora
+repo_url: https://github.com/Mabox-Linux/mabox-docs
+repo_name: mabox-docs
+copyright: Copyright &copy; 2021-22 Daniel Napora
+nav:
+    - Home: index.md
+    - Getting Started:
+      - Download and installation: getting-started/download-and-installation.md
+      - First run: getting-started/first-run.md
+      - Introduction to Mabox Linux Desktop: getting-started/intro-desktop.md
+      - Software Management: getting-started/software-management.md
+      - Windows Tiling: getting-started/tiling.md
+      - Keyboard shortcuts: getting-started/keyboard-shortcuts.md
+    - Configuration:
+      - Settings Menu: configuration/settings-menu.md
+      - Mabox Control Center: configuration/mcc.md
+      - Autostart: configuration/autostart.md
+      - ObConf: configuration/obconf.md
+      - Theming:
+        - Theme Manager: configuration/theme-manager.md
+        - GTK / Openbox / Icon theme: configuration/lxappearance.md
+        - Wallpaper: configuration/wallpapers.md
+        - Tint2 panel: configuration/tint2.md
+        - Menu / Sidepanels: configuration/menu-sidepanels.md
+        - Conky: configuration/conky.md
+    - System maintenance:
+      - Updates: maintenance/updates.md
+      - Kernels: maintenance/kernels.md
+      - mb-reset script: maintenance/mb-reset.md
+    - Applications:
+      - Default/Preferred Applications: apps/preferred-apps.md
+      - PcmanFM - file manager: apps/pcmanfm.md
+      - Terminator - terminal emulator: apps/terminator.md
+      - Geany - text editor/IDE: apps/geany.md
+      - FSearch - search utility: apps/fsearch.md
+#      - Audacious - music player: apps/audacious.md
+#      - MPV - media player: apps/mpv.md
+      - CLI Apps/tools:
+        - PyRadio - cli internet radio player: apps/pyradio.md
+        - fzf - fuzzy finder: apps/fzf.md
+#        - themes.sh: apps/themes.sh.md
+#        - fpf - fuzzy package finder: apps/fpf.md
+#        - ytfzf - YT from terminal: apps/ytfzf.md
+      - Other Apps:
+        - GKrellM: apps/gkrellm.md
+        - Volume Icon: apps/volume-icon.md
+#        - ClipIt: apps/clipit.md
+#        - Hot Corners (cornora): apps/cornora.md
+    - Mabox Tools:
+      - mabox-tools/index.md
+      - Screenshot tool: mabox-tools/screenshot-tool.md
+      - Command Palette: mabox-tools/command-palette.md
+      - Logout Dialog: mabox-tools/mblogout.md
+      - Espanso - text expander: mabox-tools/espanso.md
+      - DesktopGrid: mabox-tools/desktopgrid.md
+      - Color picker/palette manager: mabox-tools/mbxcolors.md
+#      - DeskMngr: mabox-tools/deskmngr.md
+
+extra_css:
+  - css/extra.css
+  - assets/simpleLightbox.min.css
+extra_javascript:
+  - assets/simpleLightbox.min.js
+  - assets/main.js
+theme:
+  name: material
+  logo: assets/3D_logo.png
+  favicon: assets/3D_logo.png
+  custom_dir: overrides
+  # Don't include MkDocs' JavaScript
+  include_search_page: false
+  search_index_only: true
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.sections
+    - navigation.indexes
+    - search.share
+  palette:
+    - scheme: default
+      primary: blue grey
+      accent: pink
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      primary: blue grey
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+markdown_extensions:
+    - abbr
+    - meta
+    - admonition
+    - def_list
+    - pymdownx.details
+    - pymdownx.superfences
+    - attr_list
+    - pymdownx.keys
+    - footnotes
+    - pymdownx.emoji:
+        emoji_index: !!python/name:materialx.emoji.twemoji
+        emoji_generator: !!python/name:materialx.emoji.to_svg
+extra:
+  alternate:
+    - name: English
+      link: /en/ 
+      lang: en
+    - name: Spanish
+      link: /es/
+      lang: es
+  social:
+    - icon: material/home
+      link: https://maboxlinux.org
+      name: Mabox Linux Website
+    - icon: material/forum
+      link: https://forum.maboxlinux.org
+      name: Mabox Linux Forum
+    - icon: material/twitter
+      link: https://twitter.com/MaboxLinux/
+      name: Mabox Linux on Twitter
+    - icon: material/facebook
+      link: https://www.facebook.com/maboxlinux/
+      name: Mabox Linux on Facebook
+    - icon: material/youtube
+      link: https://www.youtube.com/c/MaboxLinux
+      name: Mabox Linux on Youtube
+    - icon: material/reddit
+      link: https://old.reddit.com/r/MaboxLinux/
+      name: Mabox Linux on Reddit

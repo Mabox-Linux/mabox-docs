@@ -1,0 +1,15 @@
+.md-header__button.md-logo img, .md-header__button.md-logo svg {
+  fill: currentColor;
+  display: block;
+  height: 40px !important;
+  width: 40px !important;
+}
+#headernav {float:right;}
+#headernav a {margin-right:12px;}
+/** Full width **/
+.gal,.gal1,.gal4 {text-align:center;}
+.gal1 a img {background:#DDD;border-radius:4px; max-width: 100%;padding:4px; border:1px solid silver;}
+/** 3 in row **/
+.gal a img {background:#DDD;border-radius:4px; max-width: 32%;padding:4px; border:1px solid silver;}
+/** 4 in row **/
+.gal4 a img {background:#DDD;border-radius:4px; max-width: 24%;padding:4px; border:1px solid silver;}
