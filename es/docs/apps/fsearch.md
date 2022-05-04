@@ -1,4 +1,4 @@
-**FSearch** ++super+slash++ es una utilidad de búsqueda de archivos enfocado en cualidades como alto desempeño y avanzado.
+**FSearch** o bien con las teclas ++super+slash++ es una utilidad de búsqueda de archivos enfocada en cualidades como de alto desempeño y avanzada.
 
 
 **Características**

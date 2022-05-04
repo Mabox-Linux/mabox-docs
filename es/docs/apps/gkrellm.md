@@ -2,9 +2,9 @@
     <a href="../../img/gkrellm.jpg" title="GKrellM"><img src="../../img/gkrellm.jpg" alt="" /></a>
 </div>
 
-**GKrellM** (GNU Krell Monitors) ies de algun modo un programa de monitoreo de sistema olvidado pero con cualidades interesantes. 
+**GKrellM** (GNU Krell Monitors) es de algun modo un programa de monitoreo de sistema olvidado pero con cualidades interesantes. 
 
-GKrellM monitors system operating parameters such as:
+GKrellM monitorea parámetros de operaciones de su sistema como son:
 
 - Uso de la CPU  
 - Procesos en ejecución 
@@ -39,10 +39,10 @@ yay gkrellm
 
 
 
-!!! info "GKrellM in Mabox Linux"
-    Mabox trae preinstalado GKrellM. Esta desactivado por defecto,  pero puede activarlo por medio de :
+!!! info "GKrellM en su Mabox Linux"
+    Mabox trae preinstalado GKrellM. Viene desactivado por defecto,  pero puede activarlo por medio de :
     
-    **Ajustes** o bien  ++super+s++ -> **Autoinicio** -> **Elegir las apps/servicios en el editor GUI **
+    **Ajustes** o bien  ++super+s++ -> **Reinicio** -> **Elegir las apps/servicios en el editor GUI **
     
     existen dos opciones:
     

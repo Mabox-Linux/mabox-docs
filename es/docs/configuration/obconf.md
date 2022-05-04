@@ -5,14 +5,14 @@
 </div>
 
 
-**ObConf**  es el gestor básico de preferencias globales para Openbox.
+**ObConf**  es el gestor básico de preferencias visuales para Openbox.
 
 
 `Temas `
 :   Permite seleccionar un tema global guardado o cambiarlo por un nuevo tema desde `.obt` archive.
 
 `Apariencia`
-:   Permite cambiar los botones el orden en la barra de título o seleccionar fuentes
+:   Permite cambiar los botones y su orden en la barra de título o seleccionar fuentes
 
 `Ventanas`
 :   Ajustes de centralización y ubicación de las ventanas
@@ -33,7 +33,7 @@
 :  La barra es un contenedor especial para  *dockapps*, o barra de aplicaciones. No esta visible en la pantalla hasta que se ejecute. La barra de aplicaciones se puede usar para mostrar cosas como un reloj , o bien para entregar una bandeja de sistema.
 
 !!! info "Monitoreo de sistema con GKrellM en la barra"
-    Mabox viene con [GKrellM](../../apps/gkrellm/) preconfigurado por defecto para que funcione en una barra. Esta desactivado por defectot, pero usted puede activarlo por medio de :
+    Mabox viene con [GKrellM](../../apps/gkrellm/) preconfigurado por defecto para que funcione en una barra. Viene desactivado por defectot, pero usted puede activarlo por medio de :
     
     **Ajustes**  o bien ++super+s++ -> **Reinicio** -> **Elegir esta utilidad desde el editor visual GUI)**
     

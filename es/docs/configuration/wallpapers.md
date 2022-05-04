@@ -12,15 +12,15 @@ La aplicación Nitrogen se usa como gestor básico de los fondos de pantalla en 
 
 
 ## Menu de Fondos de pantalla
-++super+alt+w++ ... le entregará algunas opciones interesantes
+++super+alt+w++ ... le entregará algunas opciones interesantes por el momento
 
-FALTA DOCUMENTACION EN ESTE MOMENTO AQUÍ, DEBIDOA QUE ESTA ULTIMA HERRAMIENTA SERÁ REESCRITA CON CAMBIOS PRONTO...
+FALTA DOCUMENTACION ACTUALIZADA AQUÍ, DEBIDO A QUE ESTA ULTIMA HERRAMIENTA SERÁ REESCRITA CON CAMBIOS PRONTO...
 
 ### Seleccionar Fondo de pantalla...(ya activo)
-......
+VIENE PRONTO...
 
 ### Carrusel de fondos de pantallaWallpaper slideshow (ya activo)
-......
+VIENE PRONTO...
 
 
 

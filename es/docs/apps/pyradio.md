@@ -11,6 +11,8 @@ Mabox ofrece este aplicacion Pyradio en la terminal con una lista predefinida de
 
 [PyRadio on Github](https://github.com/coderholic/pyradio){target=blank}
 
+Después de Mabox 22.04, Pyradio viene personalizada en el ícono de volumen,  cuando presiona el botón derecho del ratón o del panel táctil. Allí viene en dos opciones: Pyradio como Play with (no gui) o sea ejecutar una emisora sin visualizar pyradio en la terminal ( que abrirá un menu en el lado opuesto con las radios online por defecto), y la opción tradicional de Pyradio en la terminal. Otros aditivos en este mismo ícono de volumen, son que puede editar la lista de radioemisoras y ademas buscar radios online para agregarlas a sus preferencias. Finalmente en este mismo ícono de volumen aparece la opción de ejecutar el efecto de visualizador de audio llamado Cava.Este ejecuta una nueva terminal mientras reproduce una radioemisora y le permite ver los niveles de audio en forma visual para presumiren su escritorio. Ambas se pueden cerrar presionando la letra q
+
 **Controles básicos:**
 
 |Teclas	|Acciones|

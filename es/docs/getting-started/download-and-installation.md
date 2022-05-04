@@ -1,9 +1,9 @@
 
-Mabox Linux esta disponible para sistemas de  **64 bit** (**amd64**).
+Mabox Linux esta disponible para sistemas de  **64 bit** (**x86_64/amd64**).
 
 Las imágenes ISO estan disponibles para dos versiones de núcleos o kernel  linux:
 
-- **linux515** – con el más actualizado  LTS kernel o núcleo de linux de soporte con mas larga duración
+- **linux515** – por hoy es el más actualizado  LTS kernel o núcleo de linux de soporte con mas larga duración
 - **linux54** –  es núcleo linux o  LTS kernel más antiguo pero que puede soportar sistemas de hardware mas viejos
 
 ## Ubicaciones de Descargas 
@@ -39,17 +39,17 @@ Para averiguar cual lpodría ser la letra de unidad USB externa, anote en la ter
 ```
 sudo fdisk -l
 ```
-## Arrancado Mabox desde la unidad externa USB
+## Arrancando Mabox desde la unidad USB externa
 
 
 
 !!! hint "Use los controladores de open-source o bien los controladores privativos"
-    Mientras arranca  la unidad USB externa con Mabox, puede elegir entre usar controladores para tajetas de  **open source** o de **properietary drivers**(Nvidia, AMD,) .
+    Mientras arranca  la unidad USB externa con Mabox, puede elegir entre usar controladores para tarjetas de  **open source** o de **properietary drivers**(Nvidia, AMD,) .
 
 ![Live session boot screen](../img/Mabox_boot_live.jpg "Live session boot screen")
 
 ## Instalación
-Mabox emplea el instalador visual **Calamares**, así la instalación de Mabox sucede con la sesion de arranque en vivo o  live session.
+Mabox emplea el instalador visual **Calamares**, así la instalación de Mabox sucede con la sesin de arranque en vivo o  live session.
 
 Como Mabox Linux esta basado en Manjaro Linux, durante el proceso de instalación usted puede aprovechar de revisar la guia de usuario de Manjaro.
 

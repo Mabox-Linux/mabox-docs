@@ -1,6 +1,6 @@
-**mb-reset** es un script asistente que puede ser muy útil en situaciones desafortunadas de sus sistema.
+**mb-reset** es un script asistente que puede ser muy útil ante situaciones desafortunadas de sus sistema.
 
-– usted cometió un error fatal editando la configuracion avanzada de archivo global de autoinicio de Openbox (rc.xml, reinicio) y su sistema dejo de funcionar como antes
+– usted cometió un error fatal editando la configuración avanzada de archivo global de reinicio de Openbox (rc.xml, reinicio) y su sistema dej de funcionar como antes
 
 – usted ha estado usando el sistema de Mabox por mucho tiempo y desea actualizar a las nuevas actualizaciones de ciertos paquetes de ajustes de archivos que no estan en la rama estable, son paquetes de pruebas (para los for menu/paneles, Conky, tint2 etc.)
 
