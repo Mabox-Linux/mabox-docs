@@ -6,7 +6,7 @@
 Mabox emplea dos métodos de Reinicio:
 
 - Reinicio visual XDG  *(con editor visual GUI)*
-- Un script de texto de autoinicio de Openbox - *avanzado*
+- Un script de texto de reinicio nativo de Openbox - *avanzado*
 
 
 Usted puede fácilmente configurar ambos métodos desde:
@@ -19,7 +19,7 @@ o más rápidamente desde  **Menu de ajustes** con el atajo  ++super+s++.
 ## Reinicio XDG  con editor visual GUI
 Puede usar el editor visual de reinicio `yautostart` para seleccionar las (mini)aplicaciones o servicios que usted le gustaria inciar con el sistema automaticamente al partir la sesión.
 
-Por defecto en su instalacion Mabox usted va a encontrar...
+Por defecto en su instalación de Mabox, usted va a encontrar...
 
 *Existen más ítemes en esta lista, solamente aparecen ahi los más importantes para el primer arranque aquí - aquellos que los usuarios necesiten activar o desactivar en el  cajón izquierdo.*
 
@@ -46,7 +46,7 @@ Por defecto en su instalacion Mabox usted va a encontrar...
 
 
 ---
-## Archivo de reinicio global en Openbox (Manipule cuidadosamente este archivo!)
+## Archivo de reinicio nativo de Openbox (Manipule cuidadosamente este archivo!)
 Para una configuración muy avanzada existe este fichero script en  `~/.config/openbox/autostart`.
 
-Habitualmente no existe necesidad de editar este archivo global avanzado, solamente usuarios avanzados con conocimientos de Openbox pueden agregar sus propios comandos  de instrucción o bien otros  scripts  allí. 
+Habitualmente no existe necesidad de editar este archivo avanzado, solamente usuarios con amplios conocimientos de Openbox pueden agregar sus propios comandos  de instrucción o bien otros  scripts  allí. 
