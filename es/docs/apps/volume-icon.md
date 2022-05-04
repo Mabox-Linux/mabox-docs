@@ -1,4 +1,4 @@
-**Icono de volumen ** es un control de volumen ligero para la bandeja de sistema en el panel.
+**cono de volumen ** es un control de volumen ligero para la bandeja de sistema en el panel.
 
 Esta instalado por defecto pero desactivado en  Mabox, debido a que existe otras formas configuradas para el  control el volumen de audio:
 
