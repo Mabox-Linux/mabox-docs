@@ -2,8 +2,8 @@
     <a href="../../img/menupanel-settings.jpg" title="Menu / Sidepanels settings"><img src="../../img/menupanel-settings.jpg" alt="" /></a>
 </div>
 
-## Esquema de Color, Apariencia
-Mabox Linux aporta variados esquemas de colores para sus  Menu/Paneles Laterales y otros esquema qu el mismo usuario puede crear y agregar.
+## Esquema de Colores, Apariencia
+Mabox Linux aporta variados esquemas de colores para sus  Menu/Paneles Laterales y permite otros esquema que el mismo usuario puede crear y agregar.
 
 Para echar un vistazo rápido a algunos que usted pueda usar/crear revise en  **Random colorscheme** ubicado en el **Panel lateral izquierdo** o bien con las teclas  ++ctrl+super+left++ en la parte inferior
 
@@ -19,11 +19,11 @@ En esta sección usted puede agregar sus propios comandos en el menu/paneles. Ad
 
 **Navegar por los directorios de archivos**
 
-Sólo entrega la opción de mostrar/esconder los directorios de archivos de sus sistema Mabox - usado para una navegacion veloz por defecto en el  (Panel lateral izquierdo).
+Solamente entrega la opción de mostrar/esconder los directorios de archivos de sus sistema Mabox - usado para una navegacion veloz por defecto en el  (Panel lateral izquierdo).
 
 **Apariencia**
 
-Juege aquí con : el borde, la separación, esquinas redondas, espaciado entre submenu.
+Juege aquí con : el borde, la separación, esquinas redondas, espaciado entre submenus.
 Además puede ajustar la posición exacta de los paneles laterales en relación a el resto del espacio en la pantalla aquí
 
 
@@ -35,13 +35,13 @@ Sección del tipo y tamaño de la fuente
 
 Seleccionar el esquema de color aquí. O editarlo de acuerdo a sus necesidades.
 
-**Iconos**
+**Íconos**
 
 
 
 ## Agregando sus propios comandos personalizados
 !!! info inline end
-    Menus, paneles laterales y muchos asistentes en Mabox Linux son scripts utilitarios usando [jgmenu](https://jgmenu.github.io/).
+    Menus, paneles laterales y muchos asistentes de Mabox Linux son scripts utilitarios creados usando [jgmenu](https://jgmenu.github.io/).
 
 Usted puede agregar sus comandos propios, como scripts que se anexan al menu o bien a los paneles laterales con facilidad.
 
@@ -49,7 +49,7 @@ Vaya a uno de estos lugares para hacerlos **Mabox Centro de Control** -> **Menu 
 
 o bien en 
 
-**Panel lateral izquierdo**  o bien con las teclas ++ctrl+super+left++ -> **Ajustes de Menu/Paneles latrales** 
+**Panel lateral izquierdo**  y también con las teclas ++ctrl+super+left++ -> **Ajustes de Menu/Paneles latrales** 
 
 
 
@@ -57,5 +57,5 @@ o bien en
 POR SER REDACTADO PRONTO...
 ## Personalización avanzada
 ### Personalizar submenus
-
+YA VIENE PRONTO...
 ### Pipemenus
