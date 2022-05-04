@@ -146,7 +146,7 @@ Algunas herramientas de Mabox disponibles en el Panel lateral izquierdo:
 
   - **Ajustes de Menu/Panel lateral ** ++super+alt+m++ – permite ajustar la apariencia del  menu/paneles 
   - **Fondos de escritorio y bloqueo de pantalla** ++super+alt+w++ - configura el fondo de escritorio y el bloqueo de pantalla
-  - **Rejilla de escritorio** - administra sus ventanas en una rejilla con o sin espacios
+  - **DesktopGrid de escritorio** - administra sus ventanas en una rejilla con o sin espacios estilo tiling
   - **Gestor de escritorio** – guarda o restaura sesiones de trabajo con el escritorio  (guarda todas ventanas de trabajo en la sesion actual con su tamaño y ubicación, y mas tarde la restaura en una nueva  sesión en cualquier espacio de trabajo)
   - **Conexiones SSH** – lista todas las conexiones de SSH, desde `~/.ssh/config`
   - **Menu de ajustes panel Tint2 **
