@@ -1,5 +1,5 @@
 ![Menu de ajustes](../img/settings_menu.jpg){ align=left }
- **Menu de  ajustes**de Mabox ++super+s++ es un menu el cual permite que se configuren la mayoría de los aspectos importantes del comportamiento en Mabox ademas de la apariencia general.
+ **Menu de  ajustes**de Mabox ++super+s++ es el cual le permite que se configuren la mayoría de los aspectos importantes del comportamiento en Mabox ademas de la apariencia general.
 
 
 **Elementos del menu de ajustes:**
@@ -20,5 +20,5 @@
 - **Ratón y teclado** `lxinput`
 - **Gestor de ajustes de Openbox** `obconf`
 - **Reinicio** - vea [Autostart](../autostart/)
-- **Archivo de  configuración global de Openbox** - edite el archivo principal de la configuración global de  Openbox en  `~/.config/openbox/rc.xml` in Geany editor
+- **Archivo de  configuración nativo de Openbox** - edite el archivo principal de la configuración global de  Openbox en  `~/.config/openbox/rc.xml` in Geany editor
 - **Reconfigurar Openbox** `openbox --reconfigure` - recarga desde el archivo actualizado la configuracion inicial de Openbox  para Mabox (`rc.xml`), sin necesidad de salir y reiniciar.
