@@ -1,4 +1,4 @@
-**fzf** (*fuzzy finder*)  es una herramienta de propósito general que permite la búsqueda de archivos, comandos del historial, de los procesos, de solicitudes de Git y más de las búsquedas con  fuzzy search.
+**fzf** (*fuzzy finder*)  es una herramienta de propósito general que permite la búsqueda de archivos, comandos del historial, de los procesos, de solicitudes de Git y además de las búsquedas con  fuzzy search.
 Fzf  esta instalado y ya configurado por defecto en Mabox al igual que otra utilidades que utiliza este buscador.
 
 Los siguientes atajos estan preconfigurados:
