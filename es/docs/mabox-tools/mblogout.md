@@ -16,7 +16,7 @@ Las opciones disponibles por defecto son:
 - Bloquear la pantalla
 - Apagar 
 
-Usa  *opciones de Configuración*  para personalizar. Descomenta las líneas que no necesites o bien agrega tus propios comandos.
+Use abajo  *opciones de Configuración*  para personalizar. Allí puede Descomentar las líneas que no necesites o bien agrega tus propios comandos.
 
 
 
