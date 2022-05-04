@@ -2,7 +2,7 @@
     <a href="../../img/tiling.jpg" title="Windows tiling"><img src="../../img/tiling.jpg" alt="" /></a>
 </div>
 
-Openbox es un clásico gestor de ventanas flotantes, a pesar de esto en Mabox tenemos preconfigurado algunas acciones útiles para que usted manualmente use el tile windows  o división de ventanas para sus aplicaciones y la reposicione en otro lugar si lo desea.
+Openbox es un clásico gestor de ventanas flotantes, a pesar de esto en Mabox viene preconfiguradas algunas acciones útiles para que usted manualmente use el tile windows  o división de ventanas para sus aplicaciones y las reposicione o reubique en otro lugar si lo desea.
 
 Puede mover las ventanas a su alrededor de la pantalla fácilmente por medio de algunos atajos de teclado habilitados por defecto.
 
