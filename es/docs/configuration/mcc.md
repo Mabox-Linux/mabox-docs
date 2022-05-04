@@ -7,14 +7,14 @@
  **Mabox Centro de Control** `mcc` es un programa que incoprora una totalidad de ajustes de la apariencia visual y del comportamiento de Mabox en un sólo lugar.
 
 
-En este Centro de Control tiene acceso a la configuración de los siguientes componentes:
+En este Centro de Control se tiene acceso a la configuración de los siguientes componentes:
 
 - Sistema y componentes de  hardware
-- Programas de Software
-- Autoinicio
+- Programas de Software populares
+- Reinicio
 - Apariencia visual
-- Panel y paneles de Tint2
-- Tableros de Conky
+- Panel principal de Tint2
+- Recuadros de Conky
 - Menu y paneles laterales
 - Compositor gráfico
 - Temas de Mabox 
