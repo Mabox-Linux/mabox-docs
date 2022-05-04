@@ -23,11 +23,11 @@ El tema del panel Tint2 puede ser cambiado con el script utilitario de Mabox  **
 Algunos ajustes alternativos de panel Tint2 estan preconfigurados ya enMabox, y usted puede agregar su(s) ajustes personalizados en  `~/.config/tint2/`
 
 !!! info "¿Cómo agregar mis propios ajustes personalizados en un panel tint2 de Mabox?"
-    Si usted tiene sus propio ajuste personalizado en el panel y quiere agregarlo al sistema de  Mabox, sólo necesita ponerlo en este directorio `~/.config/tint2` . Recuerde guardar los cambios y ajustes de su  panel  tint2 personalizado  con  `.tint2rc` extension. De otro modo estos ajustes personales no serán recogidos por el  **Seleccionador de Tint2**.
+    Si usted tiene sus ajustes personalizados propios en el panel y quiere agregarlo al sistema de  Mabox, sólo necesita ponerlos en este directorio `~/.config/tint2` . Recuerde guardar los cambios y ajustes de su  panel  tint2 personalizado  con  `.tint2rc` extension. De otro modo estos ajustes personalizados no serán agregados por el  **Seleccionador de Tint2**.
 
 
 ## Herramienta visual de ajustes para panel Tint2conf 
 
-Pendiente
+PRONTO VIENE...
 
-[^1]: Esta herramienta fue escrita por BunsenLabs y adaptada para el uso en Mabox
+[^1]: Esta herramienta fue escrita por los desarrolladores de BunsenLabs y adaptada para el uso en Mabox
