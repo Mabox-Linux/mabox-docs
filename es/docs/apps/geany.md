@@ -1,4 +1,4 @@
-**Geany** ++super+e++ es un  editor con ambiente de desarrollador integrado, pequeño y ligero. Fue desarrollado para entregar una IDE pequeña y veloz, el cual tiene pocas dependencias de otros paquetes.
+**Geany** o también con las teclas ++super+e++ es un  editor con ambiente de desarrollador integrado, pequeño y ligero. Fue desarrollado para entregar una IDE veloz, el cual tiene pocas dependencias de otros paquetes.
 
 Otro objetivo fue hacerlo independiente en la medida de lo posible de otros entornos de desarrollo como KDE o GNOME - Geany solamente necesita biblioetcas de ejecución en GTK2.
 
